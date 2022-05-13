@@ -1,1 +1,5 @@
+#!name=AliDoH
+#!desc=Enable DNS over HTTPS (DoH) with DH Non-profit DNS service.
+
+[General]
 doh-server = https://dns.alidns.com
