@@ -1,0 +1,10 @@
+# NAME: Emby_Filter
+# 关键字匹配
+DOMAIN-KEYWORD,emby
+
+#终点站
+DOMAIN-SUFFIX,emby.wtf
+
+#Nebula
+DOMAIN,159.69.62.180
+DOMAIN-KEYWORD,nebula-emby
