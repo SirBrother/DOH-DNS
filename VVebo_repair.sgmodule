@@ -4,7 +4,7 @@
 #!author = suiyuran
 #!homepage = https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
 #!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/master/App_icon/120px/VVebo.png
-#!date = 2023-11-27 15:06:27
+#!date = 2023-12-01 10:11:26
 
 [Script]
 http-request ^https:\/\/api\.weibo\.cn\/2\/users\/show\? script-path = https://gitlab.com/lodepuly/vpn_tool/raw/master/Resource/Script/VVebo/VVebo_repair.js, tag = 修复时间线
